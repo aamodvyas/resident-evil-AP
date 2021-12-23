@@ -5,7 +5,7 @@
 ||EmptyCityPath|Paderborn|
 ||EmptyCityPath||
 ||Paderborn|Hildesheim|EmptyCityPath|
-Stuttgart|Hildesheim|EmptyCityPath|StartingRoom|
+Stuttgart|Hildesheim|EmptyCityPath|
 ||Hildesheim||
 ||StartingRoom3|EmptyCityPath|
 ||Stuttgart||
