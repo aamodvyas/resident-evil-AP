@@ -59,6 +59,11 @@ class Player():
         action_method(**kwargs)
 
     def select_weapon(self,tile):
+        index = 0
+        for item in self.inventory:
+            if isinstance(item, items.Weapon):
+                print(str(index)+')'+ item.name+'     dmg:'+str(item.damage))
+            index +=1
         selected_weapon_index = input('Please select weapon index: ')
         self.current_weapon = self.inventory[int(selected_weapon_index)]
 

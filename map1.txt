@@ -5,7 +5,7 @@
 ||EmptyCityPath|HofCity|
 ||EmptyCityPath||
 ||HofCity||
-HofCity|SaalePark|EmptyCityPath|StartingRoom|SafeHouse|
+HofCity|SaalePark|EmptyCityPath|StartingRoom1|SafeHouse|
 ||SaalePark||
 ||Munchberg||
 ||Wunseidel||

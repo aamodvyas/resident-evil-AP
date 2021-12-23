@@ -31,7 +31,7 @@ class MapTile:
         return moves
 
 
-class StartingRoom(MapTile):
+class StartingRoom1(MapTile):
     # override the intro_text method in the superclass
     def intro_text(self):
         return """
