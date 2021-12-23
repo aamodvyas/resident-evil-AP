@@ -1,6 +1,6 @@
 ||FindSafeRoom|
 ||LeaveSafeRoom|
-||CarlZuckMayer|MannheimCiy|
+||CarlZuckMayer|MannheimCity|
 ||Wasserturm|SafeRoom|
 ||EmptyCityPath|MannheimCity|
 ||EmptyCityPath|Wasserturm|
