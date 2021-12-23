@@ -1,0 +1,11 @@
+||SafeRoom|
+||LeaveSafeRoom|
+||Munchberg||
+||SaalePark||
+||EmptyCityPath|HofCity|
+||EmptyCityPath||
+||HofCity||
+HofCity|SaalePark|EmptyCityPath|StartingRoom|SafeHouse|
+||SaalePark||
+||Munchberg||
+||Wunseidel||

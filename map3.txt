@@ -1,0 +1,12 @@
+||FindSafeRoom|
+||LeaveSafeRoom|
+||Stuttgart|EmptyCityPath|
+||Hildesheim||
+||EmptyCityPath|Paderborn|
+||EmptyCityPath||
+||Paderborn|Hildesheim|EmptyCityPath|
+Stuttgart|Hildesheim|EmptyCityPath|StartingRoom|
+||Hildesheim||
+||StartingRoom3|EmptyCityPath|
+||Stuttgart||
+||Kiel||
